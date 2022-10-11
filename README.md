@@ -6,15 +6,11 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [12-Intro-component-with-sign-up-form](https://iguanasplit.github.io/12-Intro-component-with-sign-up-form-/)
 
 ## My process
 
